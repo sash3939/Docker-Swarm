@@ -29,6 +29,9 @@ WORKER1
 ![yc worker1](https://github.com/user-attachments/assets/3265a901-8813-48a4-aab5-71f58ba2f04f)
 ---
 
+WORKER2
+![yc worker2](https://github.com/user-attachments/assets/b1daf813-9974-4ff6-9880-c0918c53112a)
+---
 
 
 ## Задача 2 (*) (необязательное задание *).
