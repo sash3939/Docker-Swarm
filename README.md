@@ -21,8 +21,14 @@ docker node ls
 
 ## Решение 1
 
+MASTER
 ![yc compute instance master node](https://github.com/user-attachments/assets/72c65af9-3fdb-4a35-b4c1-e2b18fc9752f)
 ---
+
+WORKER1
+![yc worker1](https://github.com/user-attachments/assets/3265a901-8813-48a4-aab5-71f58ba2f04f)
+---
+
 
 
 ## Задача 2 (*) (необязательное задание *).
